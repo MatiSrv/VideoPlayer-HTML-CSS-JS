@@ -10,7 +10,6 @@ cursor: pointer;
 }
 #play{
     background-image: url(../images/play.svg);
-
 }
 
 
@@ -20,10 +19,8 @@ background-image: url(../images/pause.svg);
 
 #backward{
     background-image: url(../images/-10.svg);
-
 }
 
 #forward{
     background-image: url(../images/+10.svg);
-
 }
